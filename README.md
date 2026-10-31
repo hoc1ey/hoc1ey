@@ -1,67 +1,47 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=false&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=false&section=header"/>
 
-<h1 align="center"><b>Hola</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b> Bienvenid@ a mi perfil de GitHub</b></h1>
+<h1 align="center">Hola, soy José 👋</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=3f60fd&size=27&center=false&lines=Mi+nombre+es+José...;Tengo+21+años...;Estudio+Ingeniería+en+Software...;Soy+de+Quito,+Ecuador"/>
-
- <p>- <i>Soy José Merchán (hoc1ey). Estudiante de Ingeniería en Software en la Escuela Politécninca Nacional (Quito, Ecuador), apasionado por la tecnología y la programación. Sigo mejorando mis habilidades en programación y buenas prácticas, y descubriendo nuevas tecnologías. Me gusta la inteligencia artificial, aplicaciones web, móbiles y de escritorio. Comprometido con el aprendizaje continuo.</i></p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXcyMmUycG8xem02bHBrbzN2OGtqa3A5b2xuMWdrcXV5ZXppN2l2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.webp" width="200" align="right" />
-
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Conecta conmigo
-<p align="left">
-<a href="https://twitter.com/hoc1ey1" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/twitter.svg" alt="subhadeepzilong" width="42" /></a>
-<a href="https://www.linkedin.com/in/josé-merchán-724169329/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="subhadeep-chakraborty-b341a8191" width="42" /></a>  
-<a href="https://www.facebook.com/emanuel.merchan.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/facebook.svg" alt="subhadeep.chakraborty.555" width="42" /></a>
-<a href="https://wa.me/593990963246" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" alt="WhatsApp"width="42" /></a>
-<a href="https://github.com/hoc1ey" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub"width="42" /></a>
-<a href="https://open.spotify.com/user/63yhwjh3o5pqeh9dnmxqdxpzy?si=446d5185f99e441b" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" alt="Spotify" width="42" /></a>
-</p>
-
-<!--h1 without bottom border-->
-# <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Tecnologías que manejo
-<!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <h3>Cloud y DevOps</h3>
-    <img src="https://skillicons.dev/icons?i=aws,gcp,nginx,docker,jenkins,linux,ubuntu,postgres,mongodb,mysql,cloudflare,"/> <!-- Cloud y DevOps -->
-    <h3>Lenguajes</h3>
-    <img src="https://skillicons.dev/icons?i=java,py,js,ts,r,html,css,md," /> <!-- Lenguajes -->
-    <h3>Frameworks y Librerías</h3>
-    <img src="https://skillicons.dev/icons?i=react,angular,express,flask,nodejs,tailwind,bootstrap," /> <!-- Frameworks y Librerías -->
-    <h3>IDEs y Herramientas</h3>
-    <img src="https://skillicons.dev/icons?i=idea,clion,pycharm,webstorm,vscode,visualstudio,postman," /> <!-- IDEs y Herramientas -->
-    <h3>Herramientas de Colaboración y Diseño</h3>
-    <img src="https://skillicons.dev/icons?i=github,git,linkedin,twitter,gmail,discord,figma,blender," /> <!-- Herramientas de colaboración y diseño -->
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=3f60fd&size=27&center=true&vCenter=true&width=600&lines=Ingeniero+de+Software;Full-Stack+Developer;TypeScript+%7C+Java+%7C+React;Quito,+Ecuador" alt="Typing SVG" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+Soy **José Emanuel Merchán Sánchez**, Ingeniero de Software egresado de la Escuela Politécnica Nacional (Quito, Ecuador). Trabajo como Full-Stack Developer en RideTel, donde desarrollo y mantengo **FactuExpert**, un sistema administrativo, contable y de facturación electrónica.
 
-## 🔥 Estadísticas de Racha
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hoc1ey&theme=algolia" alt="hoc1ey" /></p>
+Me interesan la arquitectura limpia, la calidad del código y el desarrollo de aplicaciones web, móviles e inteligencia artificial. Actualmente trabajo en **Monea**, una aplicación personal de control de finanzas construida con NestJS y React Native.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+## 🔗 Conecta conmigo
 
- ## 💻 Estadísticas de GitHub
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hoc1ey&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hoc1ey&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SubhadeepZilong" height="192px"/>
-  <br/>
-  <b>Nota:</b> Los idiomas principales son solo una métrica de los idiomas que componen mi código público y no reflejan experiencia ni nivel de habilidad.
-  </p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/jose-merchan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:jose.merchan3001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+## 🛠️ Tecnologías que manejo
 
-## :trophy: Git profile Trophies
+**Lenguajes:**
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,java,python,html,css" />
+</p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoc1ey&layout=compact&theme=algolia" alt="SubhadeepZilong" /></a> </p>
+**Frontend y Mobile:**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs" />
+</p>
 
-Última edición en [2024/12/22]
+**Backend:**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring" />
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=false&section=footer"/>
+**Bases de datos:**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
+</p>
+
+**Cloud, DevOps y Herramientas:**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,firebase,azure,vscode,figma" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=false&section=footer"/>
